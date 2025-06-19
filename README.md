@@ -1,10 +1,10 @@
-# 📈 Sales Forecasting with Python
+# Sales Forecasting with Python
 
 This project demonstrates time-series forecasting using Python to predict monthly sales figures. It includes exploratory analysis, model building (ARIMA), and visualization of forecast trends.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - `data/`: Contains sample sales data
 - `notebooks/`: Analysis and modeling in Jupyter notebooks
@@ -12,7 +12,7 @@ This project demonstrates time-series forecasting using Python to predict monthl
 
 ---
 
-## 🧠 Key Concepts
+## Concepts
 
 - Time-Series Decomposition
 - ARIMA Model (AutoRegressive Integrated Moving Average)
@@ -27,7 +27,7 @@ This project demonstrates time-series forecasting using Python to predict monthl
 
 ---
 
-## 🔧 Tools Used
+## packages
 
 - Python (pandas, numpy, statsmodels)
 - Jupyter Notebook
@@ -35,7 +35,7 @@ This project demonstrates time-series forecasting using Python to predict monthl
 
 ---
 
-## 🚀 How to Run
+## Run by
 
 ```bash
 pip install -r requirements.txt
@@ -44,6 +44,6 @@ jupyter notebook notebooks/sales_forecasting.ipynb
 
 ---
 
-## 📬 Contact
+## Contact
 
 Questions or feedback? Reach out via [LinkedIn](https://linkedin.com/in/elameenbadawy) or [Email](mailto:cigma.generalsolutions@gmail.com)
