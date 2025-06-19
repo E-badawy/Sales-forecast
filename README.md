@@ -1,0 +1,49 @@
+# 📈 Sales Forecasting with Python
+
+This project demonstrates time-series forecasting using Python to predict monthly sales figures. It includes exploratory analysis, model building (ARIMA), and visualization of forecast trends.
+
+---
+
+## 📂 Project Structure
+
+- `data/`: Contains sample sales data
+- `notebooks/`: Analysis and modeling in Jupyter notebooks
+- `images/`: Visual outputs used in README
+
+---
+
+## 🧠 Key Concepts
+
+- Time-Series Decomposition
+- ARIMA Model (AutoRegressive Integrated Moving Average)
+- Forecast Accuracy (MAE, RMSE)
+- Visualization with matplotlib and seaborn
+
+---
+
+## 📊 Sample Output
+
+![Forecast](images/forecast_plot.png)
+
+---
+
+## 🔧 Tools Used
+
+- Python (pandas, numpy, statsmodels)
+- Jupyter Notebook
+- matplotlib
+
+---
+
+## 🚀 How to Run
+
+```bash
+pip install -r requirements.txt
+jupyter notebook notebooks/sales_forecasting.ipynb
+```
+
+---
+
+## 📬 Contact
+
+Questions or feedback? Reach out via [LinkedIn](https://linkedin.com/in/elameenbadawy) or [Email](mailto:cigma.generalsolutions@gmail.com)
