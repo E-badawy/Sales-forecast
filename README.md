@@ -23,7 +23,7 @@ This project demonstrates time-series forecasting using Python to predict monthl
 
 ## 📊 Sample Output
 
-![Forecast](images/forecast_plot.png)
+![Forecast](https://github.com/E-badawy/Sales-forecast/blob/28d81c3cae695742995aeda63c0c8f605b305132/forecast_plot.png) 
 
 ---
 
